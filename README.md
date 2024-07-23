@@ -14,7 +14,7 @@ Welcome to my cybersecurity portfolio. Here you'll find details of my projects, 
       - Completed a controls and compliance checklist to determine required controls and compliance best practices.
       - Identified risks, vulnerabilities, and provided recommendations for improvement.
     - **Deliverables**:
-      - [Audit Report (PDF)](https://github.com/Tanveer786110/cybersecurity-portfolio/blob/main/Security%20Audit%20for%20Botium%20Toys%20company.pdf))
+      - [Audit Report (PDF)](https://github.com/Tanveer786110/cybersecurity-portfolio/blob/main/Audit_Report.pdf)
      
 
 ### View My Portfolio
