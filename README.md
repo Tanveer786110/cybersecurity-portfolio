@@ -6,10 +6,16 @@ Welcome to my cybersecurity portfolio. Here you'll find details of my projects, 
 
 ### Projects
 
-1. **Disk Sanitization Utility**
-    - **Languages and Utilities Used**: PowerShell, Diskpart
-    - **Environment Used**: Windows 10 (21H2)
-    - **Description**: A utility that guides users through wiping drives connected to their system. Allows the user to select the target disk and number of passes to be performed.
+1. **Security Audit for Botium Toys**
+    - **Objective**: Conduct an internal security audit to assess and improve the security posture of Botium Toys.
+    - **Scope**: Included all assets managed by the IT department, internal processes, and compliance with U.S. and international regulations.
+    - **Details**:
+      - Reviewed the IT manager's scope, goals, and risk assessment report.
+      - Completed a controls and compliance checklist to determine required controls and compliance best practices.
+      - Identified risks, vulnerabilities, and provided recommendations for improvement.
+    - **Deliverables**:
+      - [Audit Report (PDF)](link-to-pdf)
+     
 
 ### View My Portfolio
 
@@ -17,4 +23,4 @@ You can view my portfolio live at [https://Tanveer786110.github.io/cybersecurity
 
 ### Contact
 
-Feel free to reach out to me at [tanveer14cs28@gmail.com].
+Feel free to reach out to me at [your email address].
