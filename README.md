@@ -23,4 +23,4 @@ You can view my portfolio live at [https://Tanveer786110.github.io/cybersecurity
 
 ### Contact
 
-Feel free to reach out to me at [your email address].
+Feel free to reach out to me at [tanveer14cs28@gmail.com].
